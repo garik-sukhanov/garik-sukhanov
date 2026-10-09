@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44" fill="none" xml:space="preserve">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="180" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#292e42"/><stop offset=".45" stop-color="#292e42"/><stop offset=".5" stop-color="#e0af68"/><stop offset=".55" stop-color="#292e42"/><stop offset="1" stop-color="#292e42"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="360 0" dur="4s" repeatCount="indefinite"/>
+</linearGradient></defs>
+<style><![CDATA[
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+.blink{animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+
+]]></style>
+<rect x="1" y="1" width="178" height="42" rx="10" fill="#1a1b26" stroke="url(#g)" stroke-width="2"/>
+<text x="25.2" y="27.5" font-size="14" textLength="117.6" lengthAdjust="spacingAndGlyphs" ><tspan fill="#e0af68">› </tspan><tspan fill="#c0caf5">hh.ru resume</tspan></text>
+<rect class="blink" x="145.8" y="15" width="8" height="16" fill="#e0af68"/>
+</svg>

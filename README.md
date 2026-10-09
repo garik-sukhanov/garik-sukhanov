@@ -1,42 +1,38 @@
-<h1 align="center">Hi there, I'm <a href="https://instagram.com/garik_sukhanov/" target="_blank">Igor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Fullstack developer </h2>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="IGOR SUKHANOV — fullstack developer"/>
+</p>
 
-## SKILLS
- 
-### FRONT <br>
-[![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/) <br>
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)<br>
-[![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)](https://pugjs.org/)
-[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+<p align="center">
+  <a href="https://t.me/garik_sukhanov"><img src="assets/btn-telegram.svg" height="36" alt="Telegram"/></a>
+  <a href="https://instagram.com/garik_sukhanov/"><img src="assets/btn-instagram.svg" height="36" alt="Instagram"/></a>
+  <a href="https://career.habr.com/sukhanovigorg"><img src="assets/btn-habr.svg" height="36" alt="Habr Career"/></a>
+  <a href="https://voronezh.hh.ru/resume/c0bcea48ff07ec45c50039ed1f365373674d79"><img src="assets/btn-hh.svg" height="36" alt="HH.ru resume"/></a>
+</p>
 
-### BACK <br>
-[![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](//https://www.mongodb.com/)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)<br>
-[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/ru/)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="neofetch: React, Redux Toolkit, React Hook Form, MUI, HTML5, CSS3, SASS, Pug, Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeScript, JavaScript, Swift, Git, Bitbucket, Jira"/>
+</p>
 
-### TOOLS <br>
-[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) <br>
-[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/ru/software/jira)
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="client → api → data"/>
+</p>
 
-### Codewars:
-[![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)](https://www.codewars.com/)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,redux,materialui,sass,pug,html,css,nodejs,express,nestjs,postgres,mongodb,swift,git,github,bitbucket&perline=9&theme=dark" alt="skills"/></a>
+</p>
 
-### Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=garik-sukhanov&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garik-sukhanov/garik-sukhanov/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garik-sukhanov/garik-sukhanov/output/snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/garik-sukhanov/garik-sukhanov/output/snake-dark.svg" width="100%" alt="contribution snake"/>
+  </picture>
+</p>
 
-### Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/garik_sukhanov)
+<p align="center">
+  <a href="https://www.codewars.com/users/SukhanovGarik"><img src="https://www.codewars.com/users/SukhanovGarik/badges/large" alt="Codewars"/></a>
+</p>
 
-### Resume:
-[![habr](https://img.shields.io/badge/Resume-HABR-yellow)](https://career.habr.com/sukhanovigorg)
-[![hh](https://img.shields.io/badge/Resume-HH.ru-red)](https://voronezh.hh.ru/resume/c0bcea48ff07ec45c50039ed1f365373674d79)
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="thanks for stopping by"/>
+</p>
